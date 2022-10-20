@@ -24,17 +24,17 @@ Science is not everything, but science is very beautiful.
     <br />
 
   </p>
-</div>
 
 
 
-EXPERIMENTAL FRACTURE MECHANICS
+
+Experimental Frature Mechanics
     <br />
-CHARGÉ DE RECHERCHE CNRS
+Chargé De Recherche CNRS
     <br />
 GÉOAZUR
     <br />
-UNIVERSITÉ DE CÔTE D'AZUR
+Université de Côte d'Azur
     <br />
 E-mail: francois.passelegue@geoazur.unice.fr
     <br />
