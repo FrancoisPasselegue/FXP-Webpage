@@ -99,4 +99,3 @@ Congratulations to Dr. Baptiste Gombert who successfully defended his PhD! Bapti
 
 
 </body>
-</html>
