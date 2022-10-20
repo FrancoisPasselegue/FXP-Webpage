@@ -16,7 +16,7 @@ Science is not everything, but science is very beautiful.
       R.J. Hoppenheimer
           <br />
     <br />
-    <br />
+
 
    <a href="test.html">HOME</a> | <a href="publications.html">PUBLICATIONS</a> | <a href="cv.html">CV</a> | <a href="people.html">PEOPLE</a>
     <br />
