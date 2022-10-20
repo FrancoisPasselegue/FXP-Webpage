@@ -1,45 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142757762-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-142757762-1');
-</script>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta http-equiv="content-language" content="fr"/>
-<meta name="google-site-verification" content="Nh-NMwKaEnC5vvymhlwNK-Sx1hZSbP2Jc-sQsXeiNpA" />
-<meta name="viewport" content="width=device-width"
-<meta name="viewport" content="initial-scale=1"
-<meta name="viewport" content="width=70ch">
-<title>Zacharie Duputel</title>
-<link rel="stylesheet" href="style.css" type="text/css" media="screen" title="Simple"/> 
-
-
-<script type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-27853424-1']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-</script>
-
-</head>
-
-</head>
 
 <body id="theme">
 <div id="all">
