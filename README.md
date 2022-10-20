@@ -27,7 +27,7 @@ Science is not everything, but science is very beautiful.
 
 
 
-Experimental Frature Mechanics
+Experimental Fracture Mechanics
     <br />
 Chargé De Recherche CNRS
     <br />
