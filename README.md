@@ -5,14 +5,17 @@ FRANCOIS X. PASSELÈGUE
 
 <table> <tr>
 <td> <img src="me.jpg" width="112" height="112" alt="meh"/> </td>
-<td>
+
+ 
 EXPERIMENTAL FRACTURE MECHANICS
- <td> 
-  CHARGÉ DE RECHERCHE CNRS
-<td>
+
+ 
+CHARGÉ DE RECHERCHE CNRS
+
+ 
 GÉOAZUR
-  <td>
+
 UNIVERSITÉ DE CÔTE D'AZUR
-  <td>
+
 E-mail: francois.passelegue@geoazur.unice.fr
 ORCID: 0000-0002-4217-9817
