@@ -10,8 +10,14 @@
   <h3 align="center">FRANCOIS X. PASSELÈGUE</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+Science is not everything, but science is very beautiful.
     <br />
+    <p align="center">
+      R.J. Hoppenheimer
+          <br />
+    <br />
+    <br />
+
    <a href="test.html">HOME</a> | <a href="publications.html">PUBLICATIONS</a> | <a href="cv.html">CV</a> | <a href="people.html">PEOPLE</a>
 
   </p>
