@@ -1,7 +1,7 @@
 
 FRANCOIS X. PASSELÈGUE
 
-<a href="test.html">HOME</a> | <a href="publications.html">PUBLICATIONS</a> | <a href="project.html">CV</a> | <a href="people.html">PEOPLE</a>
+<a href="test.html">HOME</a> | <a href="publications.html">PUBLICATIONS</a> | <a href="cv.html">CV</a> | <a href="people.html">PEOPLE</a>
 
 <table> <tr>
 <td> <img src="me.jpg" width="112" height="112" alt="meh"/> </td>
