@@ -1,29 +1,31 @@
 
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/followthehawk/FXPasselegue/edit/main">
+    <img src="me.jpeg" alt="Logo" width="130" height="80">
+  </a>
+
+  <h3 align="center">FRANCOIS X. PASSELÈGUE</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+   <a href="test.html">HOME</a> | <a href="publications.html">PUBLICATIONS</a> | <a href="cv.html">CV</a> | <a href="people.html">PEOPLE</a>
+
+  </p>
+</div>
 
 
-<body id="theme">
-<div id="all">
-<p>
-
-
-<center>
-FRANCOIS X. PASSELÈGUE
-
-<a href="test.html">HOME</a> | <a href="publications.html">PUBLICATIONS</a> | <a href="cv.html">CV</a> | <a href="people.html">PEOPLE</a>
-
-<table> <tr>
-<img src="me.jpg" width="150" height="112" alt="me"/> </td>
-
- 
 EXPERIMENTAL FRACTURE MECHANICS
-
- 
+    <br />
 CHARGÉ DE RECHERCHE CNRS
-
+    <br />
 GÉOAZUR
-
+    <br />
 UNIVERSITÉ DE CÔTE D'AZUR
-
+    <br />
 E-mail: francois.passelegue@geoazur.unice.fr
+    <br />
 ORCID: 0000-0002-4217-9817
