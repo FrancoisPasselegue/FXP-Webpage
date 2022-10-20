@@ -10,13 +10,11 @@
   <h3 align="center">FRANCOIS X. PASSELÈGUE</h3>
 
   <p align="center">
+    
 Science is not everything, but science is very beautiful.
     <br />
-    <p align="center">
-      
+  <p align="center">
       R.J. Hoppenheimer
-          <br />
-    <br />
 
 
    <a href="test.html">HOME</a> | <a href="publications.html">PUBLICATIONS</a> | <a href="cv.html">CV</a> | <a href="people.html">PEOPLE</a>
