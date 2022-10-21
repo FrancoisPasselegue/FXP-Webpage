@@ -41,3 +41,5 @@ Université de Côte d'Azur
 E-mail: francois.passelegue@geoazur.unice.fr
     <br />
 ORCID: 0000-0002-4217-9817
+  
+  <a href="about.html">About this website</a>
