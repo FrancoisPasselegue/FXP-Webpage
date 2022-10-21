@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/followthehawk/FXPasselegue/edit/main">
+  <a href="https://github.com/followthehawk/at/edit/main">
     <img src="me.jpeg" alt="Logo" width="160" height="120">
   </a>
 
