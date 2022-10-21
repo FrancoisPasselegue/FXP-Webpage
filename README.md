@@ -1,3 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="content-language" content="fr"/>
+<meta name="viewport" content="width=device-width"
+<meta name="viewport" content="initial-scale=1"
+<meta name="viewport" content="width=70ch">
+<link rel="stylesheet" href="style.css" type="text/css" media="screen" title="Simple"/> 
+
 
 <br />
 <div align="center">
